@@ -1,0 +1,16 @@
+C:\Users\a.gavriilidis\Desktop\.NETCybersecurite\04-C#LesBases\08-Enumeration\EnumerationDemo\EnumerationDemo\bin\Debug\net5.0\EnumerationDemo.exe
+C:\Users\a.gavriilidis\Desktop\.NETCybersecurite\04-C#LesBases\08-Enumeration\EnumerationDemo\EnumerationDemo\bin\Debug\net5.0\EnumerationDemo.deps.json
+C:\Users\a.gavriilidis\Desktop\.NETCybersecurite\04-C#LesBases\08-Enumeration\EnumerationDemo\EnumerationDemo\bin\Debug\net5.0\EnumerationDemo.runtimeconfig.json
+C:\Users\a.gavriilidis\Desktop\.NETCybersecurite\04-C#LesBases\08-Enumeration\EnumerationDemo\EnumerationDemo\bin\Debug\net5.0\EnumerationDemo.runtimeconfig.dev.json
+C:\Users\a.gavriilidis\Desktop\.NETCybersecurite\04-C#LesBases\08-Enumeration\EnumerationDemo\EnumerationDemo\bin\Debug\net5.0\EnumerationDemo.dll
+C:\Users\a.gavriilidis\Desktop\.NETCybersecurite\04-C#LesBases\08-Enumeration\EnumerationDemo\EnumerationDemo\bin\Debug\net5.0\ref\EnumerationDemo.dll
+C:\Users\a.gavriilidis\Desktop\.NETCybersecurite\04-C#LesBases\08-Enumeration\EnumerationDemo\EnumerationDemo\bin\Debug\net5.0\EnumerationDemo.pdb
+C:\Users\a.gavriilidis\Desktop\.NETCybersecurite\04-C#LesBases\08-Enumeration\EnumerationDemo\EnumerationDemo\obj\Debug\net5.0\EnumerationDemo.csproj.AssemblyReference.cache
+C:\Users\a.gavriilidis\Desktop\.NETCybersecurite\04-C#LesBases\08-Enumeration\EnumerationDemo\EnumerationDemo\obj\Debug\net5.0\EnumerationDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.gavriilidis\Desktop\.NETCybersecurite\04-C#LesBases\08-Enumeration\EnumerationDemo\EnumerationDemo\obj\Debug\net5.0\EnumerationDemo.AssemblyInfoInputs.cache
+C:\Users\a.gavriilidis\Desktop\.NETCybersecurite\04-C#LesBases\08-Enumeration\EnumerationDemo\EnumerationDemo\obj\Debug\net5.0\EnumerationDemo.AssemblyInfo.cs
+C:\Users\a.gavriilidis\Desktop\.NETCybersecurite\04-C#LesBases\08-Enumeration\EnumerationDemo\EnumerationDemo\obj\Debug\net5.0\EnumerationDemo.csproj.CoreCompileInputs.cache
+C:\Users\a.gavriilidis\Desktop\.NETCybersecurite\04-C#LesBases\08-Enumeration\EnumerationDemo\EnumerationDemo\obj\Debug\net5.0\EnumerationDemo.dll
+C:\Users\a.gavriilidis\Desktop\.NETCybersecurite\04-C#LesBases\08-Enumeration\EnumerationDemo\EnumerationDemo\obj\Debug\net5.0\ref\EnumerationDemo.dll
+C:\Users\a.gavriilidis\Desktop\.NETCybersecurite\04-C#LesBases\08-Enumeration\EnumerationDemo\EnumerationDemo\obj\Debug\net5.0\EnumerationDemo.pdb
+C:\Users\a.gavriilidis\Desktop\.NETCybersecurite\04-C#LesBases\08-Enumeration\EnumerationDemo\EnumerationDemo\obj\Debug\net5.0\EnumerationDemo.genruntimeconfig.cache
